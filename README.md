@@ -87,25 +87,32 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - Auto Close Tag (Jun Han)
 - Auto Import - ES6, TS, JSX, TSX (Sergey Korenuk)
 - Auto Rename Tag (Jun Han)
-- Debugger for Chrome
 - ESLint (Microsoft)
 - indent-rainbow (oderwat)
 - HTML CSS Support (ecmel)
 - JavaScript (ES6) code snippets (charalampos karypidis)
 - Live Server (Ritwick Dey)
+- Live Preview (Microsoft)
 - Live Sass Compiler (Glenn Marks)
+- Bracket Pair Color DLW (Bracket Pair Color DLW)
 - Material Icon Theme (Philipp Kief)
-- npm Intellisense (Christian Kohler)
+- npm Intellisense (Christian Kohler) 
 - Path Intellisense (Christian Kohler)
 - Postman (Postman)
 - Prettier - Code formatted (Prettier)
-- Reactjs code snippets (charalampos karypidis)
-- Simple React Snippets (Burke Holland)
 - Snipped (Jefferson Licet)
 - Stylelint (Stylelint)
 - WordPress Snippets (wpprotools.io)
-- VSCode React Refactor (planbcoding)
+- BLACKBOXAI #1 Coding Agent +10 Million Developers
+- Bootstrap 5 & Font Awesome Snippets
+- Bootstrap 5 Quick Snippets
+- Code Spell Checker
+- CSS Peek
+  --next time--
 - Tailwind CSS IntelliSense (Tailwind Labs)
+-  Reactjs code snippets (charalampos karypidis)
+-  Simple React Snippets (Burke Holland)
+-  VSCode React Refactor (planbcoding)
 
 
 ## 🎨 VS Code Themes
