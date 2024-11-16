@@ -108,6 +108,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - Bootstrap 5 Quick Snippets
 - Code Spell Checker
 - CSS Peek
+
   --next time--
 - Tailwind CSS IntelliSense (Tailwind Labs)
 -  Reactjs code snippets (charalampos karypidis)
