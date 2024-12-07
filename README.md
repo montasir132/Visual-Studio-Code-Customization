@@ -108,6 +108,9 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - Bootstrap 5 Quick Snippets
 - Code Spell Checker
 - CSS Peek
+- PHP Intelephense (intelephense.com) 
+- PHP (devsense.com)
+- PHP Server (brapifra)
 
   --next time--
 - Tailwind CSS IntelliSense (Tailwind Labs)
