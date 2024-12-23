@@ -110,6 +110,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - CSS Peek
 - PHP Intelephense (intelephense.com) 
 - PHP (devsense.com)
+- Code Runner
 
   --next time--
 - Tailwind CSS IntelliSense (Tailwind Labs)
