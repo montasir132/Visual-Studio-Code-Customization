@@ -164,11 +164,11 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - [Operator Mono](https://www.typography.com/fonts/operator/styles)
 
 ## 🧑‍💻 Contributors
-- [@Montasir Alam](https://github.com/shovoalways/)
+- [@ Md.Montasir Alam](https://github.com/shovoalways/)
 
 
 ## 🥰 Follow me
 - [@Github](https://github.com/montasir132)
 - [@Facebook](https://www.facebook.com/dev.montasiralam) 
-- [@Twitter](https://www.linkedin.com/in/dev-montasiralam/)
+- [@Linkedin](https://www.linkedin.com/in/dev-montasiralam/)
 - [@Instagram](https://www.instagram.com/md.montasiralam132/)
