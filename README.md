@@ -154,6 +154,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 |  To Show suggestion | Ctrl + Space | cmd + space |
 |  To Close a TAB | Ctrl + W | cmd + W |
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
+|  Format code | Shift + Alt + F | Shift + Option + F |
 
 
 
