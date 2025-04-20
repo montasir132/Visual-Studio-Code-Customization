@@ -1,4 +1,4 @@
-# Visual Studio Code Customization
+# Visual Studio Code Customization -
 
 ## 📝 Why?
 I've been a loyal user of Visual Studio Code since 2024, and it has become my preferred code editor. Its speed and flexibility make it a reliable choice for me, regardless of the operating system I'm using. Over the years, I've created numerous projects using this code editor, and I've made various customizations to tailor it to my preferences.
